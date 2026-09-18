@@ -7,6 +7,10 @@
     "require": {
         "php": "^8.2",
            "ext-bcmath": "*",
+           "ext-gd": "*",
+        "ext-zip": "*",
+"ext-intl": "*",
+"ext-exif": "*",
         "barryvdh/laravel-dompdf": "^3.0",
         "barryvdh/laravel-translation-manager": "^0.6.6",
         "billowapp/payfast": "^0.6.4",
